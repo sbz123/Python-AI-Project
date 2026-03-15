@@ -120,5 +120,4 @@ def generate_script(subject, video_length, creativity, bailian_api_key, bailian_
 
     return search_result, title, script
 
-# print(generate_script("面试技巧",1.00,0.7,'sk-1e88a356808944c495a1a5e932a06064','https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation'))
 
